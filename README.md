@@ -67,19 +67,22 @@ The dataset contains MRI brain scan images categorized into:
 
 # 📈 Results
 
-- High accuracy in tumor detection
-- Fast prediction time
-- Efficient image classification
-- Improved diagnostic assistance
+- High accuracy in brain tumor detection with an overall model accuracy of **93%**
+- Fast prediction time using Deep Learning and CNN architecture
+- Efficient MRI image classification with high precision and recall scores
+- Improved diagnostic assistance for medical image analysis and tumor prediction
 
 ---
+## Classification Report
 
-# 📷 Sample Output
+| Class | Precision | Recall | F1-Score |
+|------|------|------|------|
+| 0 | 0.97 | 0.76 | 0.85 |
+| 1 | 0.82 | 0.99 | 0.89 |
+| 2 | 0.96 | 1.00 | 0.98 |
+| 3 | 1.00 | 0.97 | 0.98 |
 
-## Tumor Detection Output
-
-- Tumor Detected
-- No Tumor Detected
+**Overall Accuracy:** `93%`
 
 ---
 
@@ -95,8 +98,8 @@ The dataset contains MRI brain scan images categorized into:
 
 # 👨‍💻 Author
 
-## Soham Pal
-**Data Analytics & Business Intelligence Enthusiast**
+## Soham Pal  
+**Aspiring Data Scientist | AI & Machine Learning Enthusiast**
 
 ---
 
