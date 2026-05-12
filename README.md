@@ -99,7 +99,7 @@ The dataset contains MRI brain scan images categorized into:
 # 👨‍💻 Author
 
 ## Soham Pal  
-**Aspiring Data Scientist | AI & Machine Learning Enthusiast**
+**Data Analytics Learner | AI & Machine Learning Enthusiast**
 
 ---
 
