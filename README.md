@@ -25,23 +25,7 @@ This project helps doctors and medical professionals in early diagnosis and fast
 
 # 🛠️ Technologies Used
 
-## Programming Language
-- Python
-
-## Libraries & Frameworks
-- TensorFlow
-- Keras
-- OpenCV
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
-## Tools
-- Jupyter Notebook
-- VS Code
-- Google Colab
-
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/41cf6630-b6c7-46d9-8cdf-61129d73d8a6" />
 ---
 
 # 🧠 Deep Learning Model
