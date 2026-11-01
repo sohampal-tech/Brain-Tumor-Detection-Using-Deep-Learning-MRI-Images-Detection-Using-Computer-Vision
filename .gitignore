@@ -1,6 +1,8 @@
 # ── Model files (too large for GitHub, max 100MB) ──
 *.keras
+**/*.keras
 *.h5
+**/*.h5
 *.pb
 saved_model/
 
