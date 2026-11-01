@@ -1,0 +1,41 @@
+# ── Model files (too large for GitHub, max 100MB) ──
+*.keras
+*.h5
+*.pb
+saved_model/
+
+# ── Python virtual environment ──
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter checkpoints ──
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Temp / helper scripts ──
+check_env.py
+run_check.bat
+inspect_model.py
+run_inspect.bat
+install_tf.bat
+install_keras3.bat
+install_tfkeras.bat
+convert_model.py
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──
+.vscode/
+.idea/
+*.suo
+*.user
+
